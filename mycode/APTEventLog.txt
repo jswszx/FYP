@@ -1,0 +1,60 @@
+*****************************************************************************
+
+Event Log generated 15:17:45  Monday, December 03, 2018
+Thorlabs APT Logging Server (Built: Oct 26 2018 17:09:25). 
+Server Version:- 3:0:0:4.
+
+
+15:17:22:0699> [SN 12345678] CMGMotorCtrl::StartCtrl()
+	[Internal Code: 17352111; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:17:27:0892> [SN 12345678] CMGMotorCtrl::SetHWSerialNum(83827653)
+	[Internal Code: 11222511; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:17:27:0911> [SN 83827653] CMGMotorCtrl::Identify()
+	[Internal Code: 15332202; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:17:27:0911> Error [Code = 10109]:-
+	[SN 83827653] CMGMotorCtrl::Identify(); Internal Code = 15342202.
+	Description: Control HW Communications Disabled
+	Notes: A software call has been made to a control which is not currently communicating with any hardware. This may be because the control has not been started or due to incorrect serial number or missing hardware.
+	Extra Info: No extra information.
+*****************************************************************************
+
+*****************************************************************************
+
+Event Log generated 15:17:56  Monday, December 03, 2018
+Thorlabs APT Logging Server (Built: Oct 26 2018 17:09:25). 
+Server Version:- 3:0:0:4.
+
+
+15:17:22:0699> [SN 12345678] CMGMotorCtrl::StartCtrl()
+	[Internal Code: 17352111; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:17:27:0892> [SN 12345678] CMGMotorCtrl::SetHWSerialNum(83827653)
+	[Internal Code: 11222511; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:17:27:0911> [SN 83827653] CMGMotorCtrl::Identify()
+	[Internal Code: 15332202; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:17:27:0911> Error [Code = 10109]:-
+	[SN 83827653] CMGMotorCtrl::Identify(); Internal Code = 15342202.
+	Description: Control HW Communications Disabled
+	Notes: A software call has been made to a control which is not currently communicating with any hardware. This may be because the control has not been started or due to incorrect serial number or missing hardware.
+	Extra Info: No extra information.
+*****************************************************************************
+
+*****************************************************************************
+
+Event Log generated 15:36:10  Monday, December 03, 2018
+Thorlabs APT Logging Server (Built: Oct 26 2018 17:09:25). 
+Server Version:- 3:0:0:4.
+
+
+15:35:35:0109> [SN 12345678] CMGMotorCtrl::StartCtrl()
+	[Internal Code: 17352111; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:35:40:0260> [SN 12345678] CMGMotorCtrl::SetHWSerialNum(83827653)
+	[Internal Code: 11222511; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:35:40:0283> [SN 83827653] CMGMotorCtrl::Identify()
+	[Internal Code: 15332202; Description: 'Normal' category event.; Notes: No notes.; Extra Info: No extra information.]
+15:35:40:0283> Error [Code = 10109]:-
+	[SN 83827653] CMGMotorCtrl::Identify(); Internal Code = 15342202.
+	Description: Control HW Communications Disabled
+	Notes: A software call has been made to a control which is not currently communicating with any hardware. This may be because the control has not been started or due to incorrect serial number or missing hardware.
+	Extra Info: No extra information.
+*****************************************************************************
+
